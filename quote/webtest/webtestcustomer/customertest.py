@@ -1,8 +1,8 @@
-import time
+﻿import time
 import unittest
 from HTMLTestRunner import HTMLTestRunner
 import sys
-sys.path.append('F:\\Pycharmproject\\test')
+sys.path.append('C:\\.jenkins\\workspace\\quote_project')
 from quote.base.usebrowser import UseBrowser
 from quote.util.excel_operation import OperationExcel
 from quote.webpage.custormermanager.customerpage import CustomerPage
